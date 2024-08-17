@@ -21,7 +21,7 @@ The **VortexCraft QR Code Generator** is an Android application that allows user
 4. The app will generate and display the QR code on the screen.
 
 ## Preview
-[Here](https://www.instagram.com/vortexcraft.agency/).
+[Here](https://www.instagram.com/p/C-x-jTWCmwp/?igsh=MWU3b2Uzc2J4ZDNpag==).
 
 ## License
 
